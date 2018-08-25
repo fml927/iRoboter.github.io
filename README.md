@@ -1,2 +1,2 @@
-# iRoboter.github.io
-my  web notes
+# my notes
+my notes on this repo's wiki!
